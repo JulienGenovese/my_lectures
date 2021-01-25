@@ -1,3 +1,3 @@
 # MY LECTURES
 
-In this repository I put all the lectures that I do for my conferences. :v:
+In this repository I put all the lectures that I'm doing for my conferences. :v:
